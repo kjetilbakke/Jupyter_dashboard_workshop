@@ -1,4 +1,4 @@
- name: jupyter_dashboards_workshop
+name: jupyter_dashboards_workshop
 channels:
   - tim_shawver
   - conda-forge
